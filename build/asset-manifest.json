@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8c0f05c.css",
+    "main.js": "/static/js/main.e2095aab.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/cars.jpg": "/static/media/cars.a461be5148fd4f524a94.jpg",
+    "static/media/driver1.png": "/static/media/driver1.de93b7b21a400dc50ea1.png",
+    "static/media/road-trip.png": "/static/media/road-trip.036a055d81106cbc2ca4.png",
+    "static/media/travel-agent.png": "/static/media/travel-agent.c69e9cd53c3986a1fa09.png",
+    "index.html": "/index.html",
+    "main.e8c0f05c.css.map": "/static/css/main.e8c0f05c.css.map",
+    "main.e2095aab.js.map": "/static/js/main.e2095aab.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c0f05c.css",
+    "static/js/main.e2095aab.js"
+  ]
+}
